@@ -1,0 +1,24 @@
+# Dataset và model weights
+datasets/
+public/
+models/*.pth
+models/*.pt
+models/*.ckpt
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Training outputs / logs
+runs/
+outputs/
+checkpoints/
+*.log
+
+# Secrets / IDE
+.env
+.vscode/
+.idea/
